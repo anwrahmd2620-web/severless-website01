@@ -1,9 +1,7 @@
 # Lab 01: Hosting a Static Website on Azure Blob Storage
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-brightgreen)
-![Time](https://img.shields.io/badge/Time-30_min-blue)
-![Cost](https://img.shields.io/badge/Cost-~%240.00-success)
+
 
 > Deploy a public-facing, serverless website on Azure using Blob Storage's static website feature, with no virtual machines or web servers to manage.
 
