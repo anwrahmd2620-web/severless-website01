@@ -428,4 +428,4 @@ lab01-azure-static-website/
 
 ---
 
-<sub>Lab 01 · Azure Static Website</sub>
+
